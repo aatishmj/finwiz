@@ -1,0 +1,5 @@
+To create a transaction history chart, we can visualize the number of shares owned in each stock over time. Below is the Python code to generate this plot using matplotlib:
+
+
+
+This code will display a bar chart showing the number of shares owned in each stock during the specified period.
